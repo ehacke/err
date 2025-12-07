@@ -1,7 +1,7 @@
 {
 	"name": "@ehacke/err",
 	"description": "Simple Error wrapper",
-	"version": "1.0.5",
+	"version": "1.0.6",
 	"author": "",
 	"bugs": {
 		"url": "https://github.com/ehacke/err/issues"
